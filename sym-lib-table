@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gaia-muon-symbols")(type "KiCad")(uri "${KIPRJMOD}/gaia-muon-symbols/gaia-muon-symbols.kicad_sym")(options "")(descr ""))
+)
