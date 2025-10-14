@@ -96,6 +96,50 @@
 		)
 		(fill yes)
 		(layer "F.Cu")
+		(uuid "3bb87856-668c-4aa9-a4ee-a0e371aed9b4")
+	)
+	(fp_poly
+		(pts
+			(xy 14.5 0) (xy 14.5 10.5) (xy 10.5 10.5) (xy 10.5 18.5) (xy 14.5 18.5) (xy 14.5 29)
+			(arc
+				(start 1.5 29)
+				(mid 0.43934 28.56066)
+				(end 0 27.5)
+			)
+			(arc
+				(start 0 1.5)
+				(mid 0.43934 0.43934)
+				(end 1.5 0)
+			)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "7ec3ba22-292d-4154-a95a-37cf4ae3b238")
+	)
+	(fp_poly
+		(pts
+			(arc
+				(start 27.5 29)
+				(mid 28.56066 28.56066)
+				(end 29 27.5)
+			)
+			(arc
+				(start 29 1.5)
+				(mid 28.56066 0.43934)
+				(end 27.5 0)
+			)
+			(xy 14.5 0) (xy 14.5 10.5) (xy 18.5 10.5) (xy 18.5 18.5) (xy 14.5 18.5) (xy 14.5 29)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
 		(uuid "eaeec693-49f6-4bcf-a0bb-8655b6532110")
 	)
 	(fp_line
@@ -274,7 +318,7 @@
 			)
 		)
 	)
-	(pad "1" thru_hole roundrect
+	(pad "" thru_hole roundrect
 		(at 0 7 270)
 		(size 4.4 2.4)
 		(drill oval 3.4 1.4)
@@ -283,7 +327,7 @@
 		(roundrect_rratio 0.5)
 		(uuid "d0e5250f-b3a7-4c2d-8cab-ed96fdac5781")
 	)
-	(pad "1" thru_hole roundrect
+	(pad "" thru_hole roundrect
 		(at 0 22 270)
 		(size 4.4 2.4)
 		(drill oval 3.4 1.4)
@@ -292,7 +336,7 @@
 		(roundrect_rratio 0.5)
 		(uuid "7ccf6184-637c-4534-bda1-e29cd23d4a1d")
 	)
-	(pad "1" thru_hole roundrect
+	(pad "" thru_hole roundrect
 		(at 7 0 180)
 		(size 4.4 2.4)
 		(drill oval 3.4 1.4)
@@ -301,7 +345,7 @@
 		(roundrect_rratio 0.5)
 		(uuid "dd12779a-1ed1-47e9-9780-6aae89afc1b0")
 	)
-	(pad "1" thru_hole roundrect
+	(pad "" thru_hole roundrect
 		(at 7 29)
 		(size 4.4 2.4)
 		(drill oval 3.4 1.4)
@@ -310,7 +354,7 @@
 		(roundrect_rratio 0.5)
 		(uuid "976e85c0-e727-45db-9ae8-5d781fa14206")
 	)
-	(pad "1" thru_hole roundrect
+	(pad "" thru_hole roundrect
 		(at 22 0 180)
 		(size 4.4 2.4)
 		(drill oval 3.4 1.4)
@@ -319,7 +363,7 @@
 		(roundrect_rratio 0.5)
 		(uuid "ec3b4bde-fa6d-45b6-b7e0-d3924c719c5a")
 	)
-	(pad "1" thru_hole roundrect
+	(pad "" thru_hole roundrect
 		(at 22 29 180)
 		(size 4.4 2.4)
 		(drill oval 3.4 1.4)
@@ -328,7 +372,7 @@
 		(roundrect_rratio 0.5)
 		(uuid "04aa3e50-c44d-45b1-b177-eb939b6c44eb")
 	)
-	(pad "1" thru_hole roundrect
+	(pad "" thru_hole roundrect
 		(at 29 7 270)
 		(size 4.4 2.4)
 		(drill oval 3.4 1.4)
@@ -337,7 +381,7 @@
 		(roundrect_rratio 0.5)
 		(uuid "1f009f59-8afb-40d4-90a7-e128f7d73fb4")
 	)
-	(pad "1" thru_hole roundrect
+	(pad "" thru_hole roundrect
 		(at 29 22 270)
 		(size 4.4 2.4)
 		(drill oval 3.4 1.4)
