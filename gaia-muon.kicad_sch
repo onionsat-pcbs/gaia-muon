@@ -10306,7 +10306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
+		(property "Footprint" "gaia-muon-footprints:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 184.15 124.46 0)
 			(effects
 				(font
@@ -10515,7 +10515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "gaia-muon-footprints:PinHeader_1x04_P2.54mm_Vertical"
 			(at 163.83 189.23 0)
 			(effects
 				(font
@@ -10990,7 +10990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "gaia-muon-footprints:MSOP-8_3x3mm_P0.65mm"
 			(at 53.34 167.64 0)
 			(effects
 				(font
@@ -11519,7 +11519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "gaia-muon-footprints:SOT-23"
 			(at 120.65 82.55 0)
 			(effects
 				(font
@@ -12062,7 +12062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "gaia-muon-footprints:SOT-23"
 			(at 28.575 189.23 0)
 			(effects
 				(font
@@ -12471,7 +12471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "gaia-muon-footprints:SOT-23-6"
 			(at 43.18 81.28 0)
 			(effects
 				(font
@@ -12949,7 +12949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "gaia-muon-footprints:MSOP-8_3x3mm_P0.65mm"
 			(at 116.84 129.54 0)
 			(effects
 				(font
@@ -13140,7 +13140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "gaia-muon-footprints:SOT-23"
 			(at 114.935 139.065 0)
 			(effects
 				(font
@@ -13418,7 +13418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "gaia-muon-footprints:MSOP-8_3x3mm_P0.65mm"
 			(at 72.39 129.54 0)
 			(effects
 				(font
@@ -14604,7 +14604,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "gaia-muon-footprints:SOT-23"
 			(at 60.325 107.315 0)
 			(effects
 				(font
@@ -18106,7 +18106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
+		(property "Footprint" "gaia-muon-footprints:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
 			(at 219.71 111.76 0)
 			(effects
 				(font
@@ -18338,7 +18338,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "gaia-muon-footprints:MSOP-8_3x3mm_P0.65mm"
 			(at 72.39 129.54 0)
 			(effects
 				(font
@@ -18990,7 +18990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "gaia-muon-footprints:PinHeader_1x04_P2.54mm_Vertical"
 			(at 147.32 189.23 0)
 			(effects
 				(font
@@ -20210,7 +20210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "gaia-muon-footprints:SOT-23-5"
 			(at 247.65 26.035 0)
 			(effects
 				(font
@@ -20873,7 +20873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
+		(property "Footprint" "gaia-muon-footprints:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 156.21 76.2 0)
 			(effects
 				(font
@@ -21826,7 +21826,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "gaia-muon-footprints:MSOP-8_3x3mm_P0.65mm"
 			(at 109.22 167.64 0)
 			(effects
 				(font
@@ -22205,7 +22205,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm"
+		(property "Footprint" "gaia-muon-footprints:MSOP-8_3x3mm_P0.65mm"
 			(at 109.22 167.64 0)
 			(effects
 				(font
