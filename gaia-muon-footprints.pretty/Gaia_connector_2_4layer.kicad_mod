@@ -1398,13 +1398,24 @@
 	(embedded_fonts no)
 	(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.00mm.3dshapes/PinHeader_2x10_P2.00mm_Vertical_SMD.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 -0.8)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -0 -180 -0)
+		)
+	)
+	(model "${KIPRJMOD}/3d/HDR2.00-F-LS-2X10P.step"
+		(offset
+			(xyz 0 9 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
 		)
 	)
 )
